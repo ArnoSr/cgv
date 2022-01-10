@@ -1,4 +1,4 @@
-# Conditions générales de vente
+# Conditions générales de vente TEST
 
 Date de modification : 10/01/2022
 
