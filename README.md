@@ -2,7 +2,7 @@
 
 ## ARTICLE 1 – PARTIES AU CONTRAT
 
-Le terme CLIENT désigne toute personne morale ou physique, ayant requis les compétences de Arnaud LIDOLF pour toute demande de service. Le terme PRESTATAIRE désigne Arnaud LIDOLF. Le terme tiers désigne toute personne physique ou morale non partie au contrat.
+Le terme CLIENT désigne toute personne morale ou physique, ayant requis les compétences de Arnaud LIDOLF EI pour toute demande de service. Le terme PRESTATAIRE désigne Arnaud LIDOLF EI. Le terme tiers désigne toute personne physique ou morale non partie au contrat.
 
 ## ARTICLE 2 - CHAMP D’APPLICATION
 
