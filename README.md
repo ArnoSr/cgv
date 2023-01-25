@@ -45,7 +45,7 @@ Les paiements sont effectués, au choix du CLIENT, par chèque ou par virement b
 
 ### 1. Délais de règlement
 
-Un acompte de 40% du prix total des Services commandés est exigé lors de la passation de la commande et doit être réglé avant le démarrage de la mission. Une facture du solde du prix est envoyée à la livraison de la prestation et doit être payée dans un délai de 30 jours.
+Un acompte de 50% du prix total des Services commandés est exigé lors de la passation de la commande et doit être réglé avant le démarrage de la mission. Une facture du solde du prix est envoyée à la livraison de la prestation et doit être payée dans un délai de 30 jours.
 
 Sauf délai de paiement supplémentaire convenu par accord entre les deux parties et figurant sur la facture, le paiement du solde de la prestation s’effectue au plus tard au 30e jour suivant la date de facturation (C. Com. art. L. 441-6, al. 2 modifié de la loi du 15 mai 2001).
 
